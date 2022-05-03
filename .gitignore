@@ -1,0 +1,10 @@
+# Object files
+Objects/
+
+# Linker output
+Listings/
+
+# Debug files
+DebugConfig/
+
+
